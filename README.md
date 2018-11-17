@@ -1,4 +1,4 @@
-# restaurante-controle-comandas
+# controle-garcom
 
 Este projeto tem por finalidade o teste para Convenia.
 
