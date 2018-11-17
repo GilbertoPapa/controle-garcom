@@ -1,4 +1,4 @@
-# restaurante-gestao
+# gestao-garcom
 
 > A Vue.js project
 
